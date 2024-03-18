@@ -10,3 +10,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Just a test
 
 - this is a test
+
+## Just a test 2
+
+- this is a test 2
